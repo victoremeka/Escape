@@ -1,2 +1,2 @@
 # Escape
-A text based game made with Python
+A text based game made with Python.
